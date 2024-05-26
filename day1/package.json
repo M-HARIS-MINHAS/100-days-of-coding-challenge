@@ -1,0 +1,14 @@
+{
+  "name": "day-1",
+  "version": "1.0.0",
+  "description": "it is my first day of coding ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "haris",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.12.12"
+  }
+}
